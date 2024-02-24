@@ -4,4 +4,6 @@ let abc = "1" + "2";
 // let abc1 = typeof(abc)
 // console.log("1" + 2 + 2);
 // console.log(1 + 2 + "2");
-console.log();
+// console.log(1 + 7 + 6 + "3");
+console.log(+true);
+console.log(1+"");
